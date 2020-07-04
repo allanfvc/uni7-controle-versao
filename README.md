@@ -1,3 +1,3 @@
-commit initial
+Commit init 
 Changed on develop
 changed again on develop
